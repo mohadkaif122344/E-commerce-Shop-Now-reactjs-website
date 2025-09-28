@@ -6,6 +6,10 @@ A modern **E-commerce website** built with **React.js**, **Vite**, and **Tailwin
 > I have added some modifications of my own for learning purposes.
 
 
+## 🚀 Live Demo
+
+https://electronics-shop-now-using-reactjs.netlify.app/
+
 ## 🚀 Features
 
 .React.js & Vite: Fast and optimized frontend development.
@@ -36,14 +40,16 @@ A modern **E-commerce website** built with **React.js**, **Vite**, and **Tailwin
 .Animations: AOS (Animate On Scroll)  
 .Carousel/Slider: React Slick  
 .State Management: React Context / Hooks  
+.Netlify(for deployment)
 
 
+## 📦 Deployment (Netlify)
 
-## Credits 🙏
+Run npm run build
 
-Original YouTube tutorial creator (http://www.youtube.com/@DEBUGENTITY).
+Go to Netlify
 
+Drag & drop dist (Vite) or build (CRA) folder into Netlify dashboard.
 
-## License 📄
+https://electronics-shop-now-using-reactjs.netlify.app/
 
-This repository is for educational purposes only. All tutorial content belongs to its original creator.
