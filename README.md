@@ -44,7 +44,7 @@ https://electronics-shop-now-using-reactjs.netlify.app/
 
 .Reusable Components: Modular and scalable React components.
 
-.E-commerce Features: Product listing, featured products, testimonials, payment methods section, etc.
+.E-commerce Features: Product listing, featured products, testimonials, etc.
 
 
 
