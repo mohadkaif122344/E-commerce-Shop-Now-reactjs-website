@@ -69,3 +69,5 @@ Drag & drop dist (Vite) or build (CRA) folder into Netlify dashboard.
 
 https://electronics-shop-now-using-reactjs.netlify.app/
 
+<img width="1892" height="964" alt="Screenshot 2025-09-28 224208" src="https://github.com/user-attachments/assets/355f0b5e-3619-4cad-b47d-26dcaa304170" />
+
