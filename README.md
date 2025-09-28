@@ -69,5 +69,11 @@ Drag & drop dist (Vite) or build (CRA) folder into Netlify dashboard.
 
 https://electronics-shop-now-using-reactjs.netlify.app/
 
-<img width="1892" height="964" alt="Screenshot 2025-09-28 224208" src="https://github.com/user-attachments/assets/355f0b5e-3619-4cad-b47d-26dcaa304170" />
 
+<img width="1890" height="1001" alt="Screenshot 2025-09-28 224016" src="https://github.com/user-attachments/assets/447c0fd1-9aba-4e0a-abfb-90c0b8017d8a" />
+<img width="1869" height="963" alt="Screenshot 2025-09-28 224049" src="https://github.com/user-attachments/assets/467c00cb-d10b-4048-907f-ee8a3aa48652" />
+<img width="1906" height="962" alt="Screenshot 2025-09-28 224131" src="https://github.com/user-attachments/assets/7519d299-e603-4c04-b77d-9d6ee8cfe072" />
+<img width="1905" height="975" alt="Screenshot 2025-09-28 224151" src="https://github.com/user-attachments/assets/21ae3c68-3683-4351-bd23-dc05da398cf8" />
+<img width="1892" height="964" alt="Screenshot 2025-09-28 224208" src="https://github.com/user-attachments/assets/355f0b5e-3619-4cad-b47d-26dcaa304170" />
+<img width="1891" height="958" alt="Screenshot 2025-09-28 224609" src="https://github.com/user-attachments/assets/c05a5d91-3df6-4bcf-a6c2-01914c18b21a" />
+<img width="1908" height="969" alt="Screenshot 2025-09-28 224626" src="https://github.com/user-attachments/assets/2d28fb32-77de-40de-9ae6-3558068bd53f" />
