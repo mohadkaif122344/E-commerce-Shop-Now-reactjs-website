@@ -3,7 +3,8 @@
 A modern **E-commerce website** built with **React.js**, **Vite**, and **Tailwind CSS**. This project features a sleek design, smooth animations, responsive layouts, dark/light mode, and interactive components like sliders and icons.  
 
 >This project was built mainly by following a YouTube tutorial:
-[Responsive ELECTRONIC E-COMMERCE STORE using REACT JS & TAILWIND CSS](https://youtu.be/L3FoEoONR5c?si=YUGnKEwvNDf5Tyr6).
+[Responsive ELECTRONIC E-COMMERCE STORE using REACT JS & TAILWIND CSS]
+>(https://youtu.be/L3FoEoONR5c?si=YUGnKEwvNDf5Tyr6).
 
 >I have added several modifications for learning purposes, such as:
 
