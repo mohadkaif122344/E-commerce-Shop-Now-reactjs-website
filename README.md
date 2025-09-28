@@ -6,7 +6,7 @@ A modern **E-commerce website** built with **React.js**, **Vite**, and **Tailwin
 >
 [Responsive ELECTRONIC E-COMMERCE STORE using REACT JS & TAILWIND CSS]
 
->(https://youtu.be/L3FoEoONR5c?si=YUGnKEwvNDf5Tyr6).
+>Youtube Link: (https://youtu.be/L3FoEoONR5c?si=YUGnKEwvNDf5Tyr6).
 
 >I have added several modifications for learning purposes, such as:
 .Implemented dark/light mode toggle
