@@ -1,4 +1,4 @@
-# E-Commerce React Project
+# E-Commerce Shop Now React Project
 
 A modern **E-commerce website** built with **React.js**, **Vite**, and **Tailwind CSS**. This project features a sleek design, smooth animations, responsive layouts, dark/light mode, and interactive components like sliders and icons.  
 
